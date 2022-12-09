@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} 
+
+.main {
+    max-width: 960px;
+    min-width: 500px;
+    height: 900px;
+    margin: 0 auto;
+    margin-top: 15px;
+    background-image: url("https://64.media.tumblr.com/tumblr_mcbep8PTrx1rpgjpeo1_400.gifv");
+    background-size: cover;
+    border-radius: 10px;
+
+}  
+
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: 'Fredoka One', cursive;
+}
+
+.main h1, ul {
+    text-align: center;
+    
+}
+
+.main ul li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.main ul li a {
+    text-decoration: none;
+    color: #FFAB67;
+    font-size: 24px;
+
+} 
+
+.main ul li a:hover {
+    color: #c65102;
+}
+
+
+.main h1 {
+    color: #FFAB67;
+    font-size: 50px;
+} 
+
+/* Spaghetti Page */
+
+.main-spa {
+    max-width: 960px;
+    min-width: 650px;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 40px;
+    background-color: #FFAB67;
+    border: 1px solid red;
+    border-radius: 5px;
+
+}
+
+.main-spa h1 {
+    text-align: center;
+    margin-bottom: 10px; 
+}
+
+ ul li {
+    list-style: none;
+} 
+
+
+h2 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+} 
+
+.img-cntr {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
